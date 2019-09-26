@@ -1,0 +1,30 @@
+.carList {
+    height: 100%;
+    margin: 2% auto;
+}
+
+.carTitle {
+    background-color: darksalmon;
+    font-size: 2em;
+    height: 12%;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    margin-top: 2%;
+    table-layout: fixed;
+}
+
+input {
+    border: none;
+}
+
+.total {
+    font-size: 1.5em;
+    margin-left: 60%;
+}
+
+.btn {
+    margin: 0 5%;
+}

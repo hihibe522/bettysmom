@@ -1,0 +1,33 @@
+.carList {
+    width: 30%;
+    height: 550px;
+    margin: 0 auto;
+}
+
+.carTitle {
+    background-color: darksalmon;
+    font-size: 2em;
+    height: 12%;
+    text-align: center;
+    display: block;
+}
+
+.carMain {
+    height: 300px;
+    display: block;
+}
+
+table {
+    width: 100%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.total {
+    font-size: 1.5em;
+    margin-left: 60%;
+}
+
+.btn {
+    margin: 0 5%;
+}

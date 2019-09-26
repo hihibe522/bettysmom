@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(248, 237, 246);
+}
+
+.t123 {
+    /* margin: auto; */
+    font-size: 2rem;
+    text-align: center;
+}
+
+.car {
+    /* background-color: palevioletred; */
+    position: fixed;
+    z-index: 50;
+    right: 1rem;
+    top: 10rem;
+}

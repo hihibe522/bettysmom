@@ -1,0 +1,26 @@
+.list {
+    margin: 3% auto;
+}
+
+.main {
+    margin: 3% auto;
+}
+
+.info {
+    border-top: 2px solid black;
+    padding: 1%;
+}
+
+.bill {
+    border-top: 2px solid black;
+    margin: 2% auto;
+    padding: 1%;
+}
+
+h4 {
+    text-align: center;
+}
+
+.bill table {
+    width: 100%;
+}

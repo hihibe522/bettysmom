@@ -1,0 +1,41 @@
+body {
+  min-height: 900px;
+  background: url("../img/about/about_img.jpeg") center center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.img_1 {
+  margin-top: 5%;
+  margin-left: 100px;
+}
+.img_2 {
+width: 100%;
+  margin-left: 600px;
+}
+.img_3 {
+  width: 100%;
+  margin-left: -200px;  
+  /* background-color:brown; */
+}
+.img_4 {
+  margin-left: -500px;
+}
+.img_5 {
+  margin-left: -300px;
+}
+.img_6 {
+  margin-left: -100px;
+}
+.img_7 {
+  margin-left: -500px;
+}
+.img_8 {
+  margin-left: 200px;
+  margin-bottom: 5%;
+}
+
+.parallax{
+  color: white;
+  font-size: 1.2rem;
+}

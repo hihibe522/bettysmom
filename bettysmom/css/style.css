@@ -1,0 +1,77 @@
+.beam {
+    height: 3.8rem;
+    background-color: #A2D9E7;
+}
+
+.productbeam {
+    /* 每個產品類別上方給一個beam，作為id標籤放置用，點連結後會剛好位在navbar的下層 */
+    height: 3.8rem;
+}
+
+body,
+header,
+section,
+footer {
+    font-family: Microsoft JhengHei;
+}
+
+body {
+    background: url("../img/indeximg.jpg") center center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header {
+    width: 100%;
+    height: 3.8rem;
+    background-color: #A2D9E7;
+    position: fixed;
+    top: 0;
+    z-index: 50;
+}
+
+.navbar-brand {
+    margin: -20px 20px -20px 0px;
+}
+
+footer .text {
+    font-size: 0.8rem;
+    color: #1D2B56;
+}
+
+footer label {
+    font-size: 0.8rem;
+    color: #1D2B56;
+}
+
+a:link {
+    color: #1D2B56;
+}
+
+a:visited {
+    color: #1D2B56;
+}
+
+a:hover {
+    color: #1D2B56;
+}
+
+a:active {
+    color: #1D2B56;
+}
+
+.nav-item:hover .dropdown-menu {
+    display: block;
+}
+
+.footerlogo {
+    text-align: center;
+}
+
+::placeholder {
+    color: white;
+}
+
+h1 {
+    color: #DF493F;
+}
